@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GuilhermeSavan
-- 👀 I’m interested in web developer
+- 👀 I’m interested in web developer and data science
 - 🌱 I’m currently learning basic basic front end, python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
